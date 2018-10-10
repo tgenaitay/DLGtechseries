@@ -8,7 +8,7 @@ Trainers:
 - Dounan HU
 - Alex DUNCAN
 
-Number of participants: 12
+Number of participants: 15
 
 Season: October 2018
 
@@ -117,6 +117,7 @@ AFTERNOON
 - Participants split in teams. They were introduced a case study (sent prior workshop).
 - They work with mentors to prepare a `project kickoff meeting`
 - They present it live (15 min each)
+- This exercise will be scored by instructors/DLG management
 
 
 ## After party 🎉
