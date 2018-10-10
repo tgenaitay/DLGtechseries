@@ -10,6 +10,9 @@ Trainers:
 
 Number of participants: 15
 
+Location: Naked Hub 6F Workshop, 500 Guangdong Lu, World Trade Tower, Huangpu District
+黄浦区广东路500号世界贸易大厦裸心社6楼Workshop
+
 Season: October 2018
 
 ## Workshop 1 - Turn a client brief into a comprehensive tech project plan
