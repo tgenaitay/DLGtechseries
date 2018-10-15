@@ -27,6 +27,8 @@ Season: October 2018
 
 MORNING
 
+[👉 Download the slides](https://github.com/tgenaitay/DLGtechseries/raw/master/DLG%20Day%201%20Part%201%20Business%20Plan.pdf)
+
 ### I. “Understanding Project Specifications” lecture (1 hr 30 min)
 
 - How to read a project brief
@@ -44,6 +46,8 @@ MORNING
 **Hands-on demo with sample brief.** (30 min)
 
 AFTERNOON
+
+[👉 Download the slides](https://github.com/tgenaitay/DLGtechseries/raw/master/DLG%20Day%201%20Part%202%20Mockup%20DB.pdf)
 
 ### III. “Mockups” lecture + demo (2 hr)
 
