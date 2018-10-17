@@ -2,7 +2,7 @@
 
 > Hands-on, mentor-driven workshops designed for total beginners to step in tech world and become more savvy. Learn digital skills, better understand technical workflows, and change the way you work with your clients!
 
-Trainers: 
+Trainers:
 
 - Maria ALTYEVA
 - Dounan HU
@@ -19,10 +19,10 @@ Season: October 2018
 
 - Date: Saturday October 13, 2018, 9AM–5PM
 - Trainer: Maria Altyeva
-- Learning objectives: 
-	- transform a business need into actionable functional specifications, 
-	- make and present basic mockups, 
-	- understand what's the core database scheme, 
+- Learning objectives:
+	- transform a business need into actionable functional specifications,
+	- make and present basic mockups,
+	- understand what's the core database scheme,
 	- draft the product roadmap
 
 MORNING
@@ -64,7 +64,7 @@ AFTERNOON
 
 - Date: Saturday October 20, 2018, 9AM–5PM
 - Trainer: Dounan HU
-- Learning objectives: 
+- Learning objectives:
 	- understand API: What a RESTful API is, why it matters
 	- apply it with many different business cases
 	- know how to read API documentations
@@ -74,24 +74,27 @@ MORNING
 ### I. API Intro lecture (30 min)
 
 - **API demo 1 - Map / geolocation API** (1 hour)
-- **API demo 2 - Notifications / Email API** (1 hour)
+- **Student Challenge 1: Making a Map For a Landing Page**
+- **API demo 2 - Notifications / SMS API** (1 hour)
+- **Student Challenge 2: Making a SMS notification for H5**
 
 AFTERNOON
 
-### II. More cases
+### II. Case Studies
 
+- **API demo 3 - Flight Status Chatbot API** (1 hour)
 
-- **API demo - Making a Chatbot for Facebook (or OA)** (1 hour)
-- **API demo - Integrating with a CRM (e.g. Jing CRM)** (1 hour)
+- **Student Challenge 3 (option a): Making a Chatbot for Facebook**
+- **Student Challenge 3 (option b): Making a Chatbot for WeChat OA (with Jing CRM)**
 
-**Student Challenge**: integrate a Chatbot with CRM and have notification services to push content out to the right people (rest of day)
+- **Advanced Challenge: Integrate a Chatbot with CRM and have notification services to push content out to the right people (rest of day)**
 
 
 ## Workshop 3 - Rock your project delivery!
 
 - Date: Saturday October 27, 2018, 9AM–5PM
 - Trainer: Alex DUNCAN
-- Learning objectives: 
+- Learning objectives:
 	- understand workflows used by software teams (in-house or external)
 	- get ready for pitfalls and challenges in tech projects
 
