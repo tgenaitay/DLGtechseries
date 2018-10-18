@@ -71,23 +71,19 @@ AFTERNOON
 
 MORNING
 
-### I. API Intro lecture (30 min)
+### I.  API 101 (Morning)
 
+- **Intro lecture** (1 hour)
 - **API demo 1 - Map / geolocation API** (1 hour)
-- **Student Challenge 1: Making a Map For a Landing Page**
+- **[Student Challenge 1: Making a Map For a Landing Page](Challenge1.md)**
 - **API demo 2 - Notifications / SMS API** (1 hour)
-- **Student Challenge 2: Making a SMS notification for H5**
+- **[Student Challenge 2: Making a SMS notification for a Landing Page](Challenge2.md)**
 
-AFTERNOON
+### II. API Advanced and Case Studies (Afternoon)
 
-### II. Case Studies
-
-- **API demo 3 - Flight Status Chatbot API** (1 hour)
-
-- **Student Challenge 3 (option a): Making a Chatbot for Facebook**
-- **Student Challenge 3 (option b): Making a Chatbot for WeChat OA (with Jing CRM)**
-
-- **Advanced Challenge: Integrate a Chatbot with CRM and have notification services to push content out to the right people (rest of day)**
+- **API demo 3 - Flight Tracking Chatbot with API** (1 hour)
+- **[Student Challenge 3: Making a Ecommerce Chatbot for Facebook](Challenge3.md)** (2 hours)
+- **CRM Demo: JingSocial chatbot and notification services to push content out to the right people** (1 hour)
 
 
 ## Workshop 3 - Rock your project delivery!
