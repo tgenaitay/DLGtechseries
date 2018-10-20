@@ -39,22 +39,22 @@ Step 1: Create a Flow:
 
 - Goto Flows > + New > Choose a Blank Flow Template:
 
-  -  ![image-20181020055232519](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181020055232519.png)
+  -  ![image-20181020055232519](images/image-20181020055232519.png)
 - Triggers decide when chatbot responds to a user
   - Choose the simplest: Catch-all - triggers on anything user types
 
-    - ![image-20181020055454379](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181020055454379.png)
+    - ![image-20181020055454379](images/image-20181020055454379.png)
   - Test in console:
 
-    - ![image-20181020055555294](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181020055555294.png)
+    - ![image-20181020055555294](images/image-20181020055555294.png)
   - Add an action: Send Message
-    - ![image-20181020060016004](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181020060016004.png)
+    - ![image-20181020060016004](images/image-20181020060016004.png)
     - In Message, type: `{{catchall.message}}` 
-    - ![image-20181020060219354](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181020060219354.png)
+    - ![image-20181020060219354](images/image-20181020060219354.png)
     - Press next, then next again to skip "Filter"
   - Give it go! Type something into the console and see it echo back!
-    - ![image-20181020074050520](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181020074050520.png)
-    - ![image-20181020074331032](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181020074331032.png)
+    - ![image-20181020074050520](images/image-20181020074050520.png)
+    - ![image-20181020074331032](images/image-20181020074331032.png)
 #### Cloudsight:
 **Provides Image Recognition Service**
 - Tags images with more details compared to other image recognition services
@@ -72,18 +72,18 @@ Step 2: Sign up for a Cloudsight account
 
 Step 3: Copy API Key 
 - Left Navbar -> My Projects -> API Keys
-- ![image-20181020062835689](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181020062835689.png)
+- ![image-20181020062835689](images/image-20181020062835689.png)
 
 Step 4: Call API
 - Open User guide: https://cloudsight.ai/docs
-- ![image-20181020061931077](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181020061931077.png)
+- ![image-20181020061931077](images/image-20181020061931077.png)
 - POST https://api.cloudsight.ai/v1/images:
   - Put your API Key into Headers under `Authorization`: (Hint: Don't forget the `CloudSight` before it)
-  - ![image-20181020062100241](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181020062100241.png)
+  - ![image-20181020062100241](images/image-20181020062100241.png)
   - Put image URL into Body: `https://images-na.ssl-images-amazon.com/images/I/41AEG1Np0pL._SX342_.jpg`
-    - ![image-20181020062407002](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181020062407002.png)
+    - ![image-20181020062407002](images/image-20181020062407002.png)
   - Click "Call Resource" and see the response:
-    - ![image-20181020062505942](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181020062505942.png)
+    - ![image-20181020062505942](images/image-20181020062505942.png)
     - Result: JSON
 	- meant to be what computers read, but humans can read too
   	- values are labeled like a dictionary
@@ -93,8 +93,8 @@ Step 5: Connect image recognition API with FlowXO:
 
 - Add an action to the bottom of your flow
   - Choose: Make a HTTP Request
-  - ![image-20181020063853999](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181020063853999.png)
-  - ![image-20181020063720384](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181020063720384.png)
+  - ![image-20181020063853999](images/image-20181020063853999.png)
+  - ![image-20181020063720384](images/image-20181020063720384.png)
   - Put https://api.cloudsight.ai/v1/images in "Request URL"
   - Method: PUT
   - Content Type: JSON
@@ -130,7 +130,7 @@ It's simple to test:
 
 Result:  
 
-- ![image-20181020071428942](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181020071428942.png)
+- ![image-20181020071428942](images/image-20181020071428942.png)
   - more complicated JSON
   - labels acting like folders - nesting inside each other
 - In this result data - we want value of these nested labels:
@@ -150,7 +150,7 @@ products
 
 Step 9: Connect shopping API with FlowXO:
 - Create a new action at bottom: Make a HTTP Request 
-  - ![image-20181020071829604](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181020071829604.png)
+  - ![image-20181020071829604](images/image-20181020071829604.png)
   - In Request URL: 
     - Put: `http://api.shopstyle.com/api/v2/products?pid=uid9924-40373882-64`
     - add &fts with tags from the image recognition result
@@ -159,7 +159,7 @@ Step 9: Connect shopping API with FlowXO:
   - Respond with more than text - make it pretty:
 - Create Send a Card Set Flow
   - Add a card with these values:
-  - ![image-20181020072326010](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181020072326010.png)
+  - ![image-20181020072326010](images/image-20181020072326010.png)
   - Card Title: `{{make_a_http_request_2.data__products__0__name}}`
   - Card Text: `{{make_a_http_request_2.data__products__0__ description}}`
   - Card Image URL: `{{make_a_http_request_2.data__products__0__image__sizes__IPhone__url}}`
