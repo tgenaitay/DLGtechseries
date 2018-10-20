@@ -7,13 +7,13 @@
 
  2. Enable 'Programmable SMS'
 
-    ![image-20181019235238827](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181019235238827.png)
+    ![image-20181019235238827](images/image-20181019235238827.png)
 
  3. Chose your Twilio Phone Number
 
  4. Copy your Login and Password
 
-    ![image-20181019235342608](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181019235342608.png)
+    ![image-20181019235342608](images/image-20181019235342608.png)
 
  5. Send test message to yourself by clicking "Make Request"
 

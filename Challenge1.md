@@ -7,7 +7,7 @@
   - Looks like (fake, do not use this): OB4BZ-D4W3U-B7VVO-4PJWW-6TKDJ-WPB77
   - [ 创建新密钥](https://lbs.qq.com/console/key.html) if no key is present
     - put in any name in Key名称: e.g. map 
-    - ![image-20181019223330397](/Users/dounanhu/Code/wg/DLGtechseries/images/image-20181019223330397.png)
+    - ![image-20181019223330397](images/image-20181019223330397.png)
 4. Open Tencent static map documentation
   - Documentation: https://lbs.qq.com/static_v2/guide-getImage.html
 5. Create basic map
