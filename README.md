@@ -69,8 +69,6 @@ AFTERNOON
 	- apply it with many different business cases
 	- know how to read API documentations
 
-MORNING
-
 ### I.  API 101 (Morning)
 
 - **Intro lecture** (1 hour)
@@ -85,6 +83,31 @@ MORNING
 - **[Student Challenge 3: Making a Ecommerce Chatbot for Facebook](Challenge3.md)** (2 hours)
 - **CRM Demo: JingSocial chatbot and notification services to push content out to the right people** (1 hour)
 
+## Case Study (PLEASE READ BEFORE WORKSHOP #3)
+
+Louis Vuitton (LV) is planning an exhibition "SERIES 88" in Beijing on January 8, 2019. This very VIP event will feature [Nicolas Ghesquière](https://www.businessoffashion.com/community/people/nicolas-ghesquiere) (art director) and other high profile fashionistas in attendance. Lucky few guests will indulge a night of glamour and champagne 🍾
+
+LV team decided to selectively invite their top chinese customers (only high net worth) through a **WeChat interactive flyer** for **SIGN UP** 1 month prior, and **CHECK IN** (on site). 
+
+Thanks to its creative capabilities and *strong technical acumen*, **DLG agency works with LV on a retainer basis**. You have been tasked to come up with the most efficient tech solution for this event registration process. LV wants to combine a beautiful flyer for SIGN UP through WeChat as well as a smooth process for security CHECK IN.
+
+It's time for you to prepare for the proposal and convince LV China team as well as all possible stakeholders in the meeting room.
+
+During the project briefing meeting, we could see LV team was internally unsure of the best direction: should this ticketing tool *designed and built totally from scratch*? or use *an existing software as a service*? or perhaps an *hybrid solution (API as back-end + custom front-end?)*. On this question, you will have to come up with your recommendation and justify it.
+
+### Assessment
+
+Your business unit will be scored on your ability to clearly define:
+- Project specifications (10 points): SMART goals and prototype
+- Solution recommendation (10 points): how + why
+- Project planning & workflow (10 points)
+
+### Deliverable
+- 10 minutes presentation, 3 minutes Q&A
+- Max 5 slides
+- FIGMA mockups
+
+ ⚠️ **No need to start working on this case** before Saturday October 27, as the afternoon is allocated for this group work.
 
 ## Workshop 3 - Rock your project delivery!
 
@@ -118,18 +141,13 @@ MORNING
 
 ### III. Common pitfalls and challenges for tech projects (30min)
 
-### IV. Wrap up challenge (rest of the day)
+### IV. Challenge (rest of the day)
 
-- Participants split in teams. They were introduced a case study (sent prior workshop).
-- They work with mentors to prepare a `project kickoff meeting`
-- They present it live (15 min each)
-- This exercise will be scored by instructors/DLG management
-
-
-## After party 🎉
-
-If time allows, all participants and trainers are invited for drinks/dinner together!
-
+- Participants split in teams of 3-4. Please refer to the case study above (read it prior to this day).
+- Work with your team to prepare a `project kickoff meeting`. 
+- Ask any questions to your touchpoint at LV (Alex), if somethings needs clarification.
+- Present it live (10 min each) at 4PM
+- This exercise will be scored
 
 ## Get in touch with our team:
 
