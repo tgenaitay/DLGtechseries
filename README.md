@@ -85,15 +85,15 @@ AFTERNOON
 
 ## Case Study (PLEASE READ BEFORE WORKSHOP #3)
 
-Louis Vuitton (LV) is planning an exhibition "SERIES 88" in Beijing on January 8, 2019. This very VIP event will feature [Nicolas Ghesquière](https://www.businessoffashion.com/community/people/nicolas-ghesquiere) (art director) and other high profile fashionistas in attendance. Lucky few guests will indulge a night of glamour and champagne 🍾
+Louis Vuitton (LV) will host an exhibition "SERIES 88" in Beijing on January 8, 2019. This VVIP event will feature [Nicolas Ghesquière](https://www.businessoffashion.com/community/people/nicolas-ghesquiere) (art director) and other high profile fashionistas. The lucky guests will enjoy a night of champagne 🍾 and glamour.
 
-LV team decided to selectively invite their top chinese customers (only high net worth) through a **WeChat interactive flyer** for **SIGN UP** 1 month prior, and **CHECK IN** (on site). 
+The LV team have decided to invite a few of their top spending chinese customers. 1 month before the event they want to send each VVIP an **interactive flyer** through WeChat inviting them to **SIGN UP**. When the VVIP guests arrive at the event, security need to be able to easily validate each guest and **CHECK THEM IN**. 
 
-Thanks to its creative capabilities and *strong technical acumen*, **DLG agency works with LV on a retainer basis**. You have been tasked to come up with the most efficient tech solution for this event registration process. LV wants to combine a beautiful flyer for SIGN UP through WeChat as well as a smooth process for security CHECK IN.
+Thanks to its creative track record and *strong technical capabilities*, **DLG works with LV on a retainer basis**, but LV works with multiple agencies and it's not guaranteed you will win this project. You have been asked to propose the best tech solution for this event registration process. LV wants to combine a beautiful flyer for easy SIGN UP through WeChat and a smooth process for security CHECK IN.
 
-It's time for you to prepare for the proposal and convince LV China team as well as all possible stakeholders in the meeting room.
+It's time for you to prepare your proposal for a meeting where you will try to convince the LV China team and other stakeholders to trust your solution.
 
-During the project briefing meeting, we could see LV team was internally unsure of the best direction: should this ticketing tool *designed and built totally from scratch*? or use *an existing software as a service*? or perhaps an *hybrid solution (API as back-end + custom front-end?)*. On this question, you will have to come up with your recommendation and justify it.
+During the initial project briefing, you could see the LV team was unsure of the best direction. Should this registration solution be *designed and built totally from scratch*? or is there a suitable *existing software as a service* they could take advantage of? or perhaps a *hybrid solution (existing API back-end + custom front-end?)*. To answer this question you need to do your research and be ready to justify your recommendation. LV is a huge luxury brand and they are inviting their most important customers, the process must be smooth and nothing can go wrong.
 
 ### Assessment
 
